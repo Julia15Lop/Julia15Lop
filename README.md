@@ -40,7 +40,7 @@ With a background in education and a Master's degree in tech teaching, I bring a
 * Cut cloud costs by 25% through strategic resource optimization and cloud rightsizing.
 * Tech with a Teaching Touch - I bridge the gap between building systems and helping others understand them. Whether it’s a Kubernetes cluster or a CI/CD workflow, I don’t just build. I document, explain, and empower.
 
-#💡 What Excites Me
+# 💡 What Excites Me
 
 Collaborating with teams that value both technical excellence and knowledge sharing.
 
