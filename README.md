@@ -1,4 +1,11 @@
-## Hi there 👋
+## Cloud & DevOps Engineer - Inspired by nature’s balance — automating with intention, scaling with care ✨🌱
+
+# What I Bring to the Table
+
+Cloud & DevOps Engineer with a master's CAP degree and vocational education in technology. I blend technical expertise with a teaching mindset to help engineering teams move faster and communicate better. From Kubernetes orchestation to technical documentation, I deliver results without compromising reliability. Inspired by nature, I build with intention and scale with care. 🤲
+
+# Core Expertise
+
 
 <!--
 **Julia15Lop/Julia15Lop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
