@@ -56,6 +56,10 @@ I'm especially drawn to **SaaS**, **fintech**, or infrastructure-heavy products 
 
 As a **computer engineer with formal training in technology education**, I don’t just build reliable systems — I help teams understand, maintain, and scale them with confidence.
 
+# Coding, Writing, Exploring 
+
+* Projects, Infraestructure Code & Labs
+* Technical Articles --> 
 <!-- 
 
 * Created educational DevOps content that helped 50K+ engineers understand and apply modern practices — combining technical clarity with a teacher’s mindset.
